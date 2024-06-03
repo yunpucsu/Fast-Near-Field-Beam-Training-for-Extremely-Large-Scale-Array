@@ -16,7 +16,7 @@ The code for the paper
 If you in any way use this code for research, please cite our original articles listed above. The corresponding BiBTeX citation is given below:
 
 ```markdown
-@ARTICLE{zhang2022fast,
+@article{zhang2022fast,
 	author={Zhang, Yunpu and Wu, Xun and You, Changsheng},
 	journal={IEEE Wireless Commun. Lett.}, 
 	title={Fast Near-Field Beam Training for Extremely Large-Scale Array}, 
