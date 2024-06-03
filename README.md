@@ -2,7 +2,7 @@
 
 The code for the paper
 
-<strong>Y. Zhang, X. Wu, and C. You, "Fast near-field beam training for extremely large-scale array,” IEEE Wireless Commun. Lett., vol. 11, no. 12, pp. 2625– 2629, Dec. 2022.</strong> [[IEEE]](https://ieeexplore.ieee.org/abstract/document/9913211/)
+<strong>Y. Zhang, X. Wu, and C. You, "Fast near-field beam training for extremely large-scale array,” IEEE Wireless Commun. Lett., vol. 11, no. 12, pp. 2625– 2629, Dec. 2022.</strong> [[IEEE]](https://ieeexplore.ieee.org/abstract/document/9913211/)[[Arxiv]](https://arxiv.org/abs/2209.14798)
 
 ## Running the simulations
 
@@ -10,8 +10,6 @@ The code for the paper
 * MATLAB R2023a
 ### Launch
 * Run Main_Rate_vs_SNR.m and Main_Rate_vs_Distance.m to reproduce Figs. 3(b) and 3(d) in the paper.
-* 
-<span style="text-shadow: 2px 2px 5px rgba(0,0,0,0.5);">Main_Rate_vs_SNR.m</span>
 
 ## Citing
 
