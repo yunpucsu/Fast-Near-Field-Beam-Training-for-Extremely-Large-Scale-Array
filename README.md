@@ -9,7 +9,7 @@ The code for the paper
 ### Prerequisites
 * MATLAB R2023a
 ### Launch
-* Run <u>Main_Rate_vs_SNR.m</u> and <u>Main_Rate_vs_Distance.m</u> to reproduce Figs. 3(b) and 3(d) in the paper.
+* Run Main_Rate_vs_SNR.m and Main_Rate_vs_Distance.m to reproduce Figs. 3(b) and 3(d) in the paper.
 
 ## Citing
 
@@ -27,14 +27,3 @@ If you in any way use this code for research, please cite our original articles 
 	doi={10.1109/LWC.2022.3212344}}
 ```
 
-<div style="width: 300px; height: 100px; overflow: auto; border: 1px solid #ccc; padding: 10px;">
-@article{zhang2022fast,
-	author={Zhang, Yunpu and Wu, Xun and You, Changsheng},
-	journal={IEEE Wireless Commun. Lett.}, 
-	title={Fast Near-Field Beam Training for Extremely Large-Scale Array}, 
-	year={2022},
-	volume={11},
-	number={12},
-	pages={2625-2629},
-	doi={10.1109/LWC.2022.3212344}}
- </div>
