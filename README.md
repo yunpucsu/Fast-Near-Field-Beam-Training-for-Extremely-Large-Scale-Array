@@ -9,7 +9,7 @@ The code for the paper
 ### Prerequisites
 * MATLAB R2023a
 ### Launch
-* Run Main_Rate_vs_SNR.m and Main_Rate_vs_Distance.m to reproduce Figs. 3(b) and 3(d) in the paper.
+* Run <table><tr><td bgcolor=gray>Main_Rate_vs_SNR.m</td></tr></table> and Main_Rate_vs_Distance.m to reproduce Figs. 3(b) and 3(d) in the paper.
 
 ## Citing
 
